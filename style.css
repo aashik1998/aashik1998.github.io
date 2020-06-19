@@ -1,22 +1,9 @@
 body{
-    background-color: Tomato
+    background-color: white
     
 }
 #header{
-    color: white;
-    font-family: 'Dancing Script', cursive;
-    font-size: 60px;
-}
-#content{    
-    width: 65%;
-    float: right;
-    
-body{
-    background-color: black
-    
-}
-#header{
-    color: white;
+    color: black;
     font-family: 'Dancing Script', cursive;
     font-size: 60px;
 }
@@ -27,7 +14,7 @@ body{
 
 }
 #con1{
-    color:white;
+    color:black;
     font-size: 25px;
     font-family: 'Pacifico', cursive;
 }
@@ -105,24 +92,4 @@ body{
 
 
 
-
-
-}
-#con1{
-    color:black;
-    font-size: 25px;
-    font-family: 'Pacifico', cursive;
-}
-
-footer{
-    position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  color: white;
-  text-align: center;
-}
-
-
-  
 
