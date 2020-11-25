@@ -1,2 +1,2 @@
 # aashik1998.github.io
-sample website
+This is a hobby project ,a personal website.
